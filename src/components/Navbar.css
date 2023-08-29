@@ -1,0 +1,12 @@
+.navbar{
+    padding: 15px;
+    background-color: #0C356A;
+    color: white;
+}
+
+.nav_name{
+    font-size: 20px;
+}
+.nav_name_sub{
+    font-size: 10px;
+}
